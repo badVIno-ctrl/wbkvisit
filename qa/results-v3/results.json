@@ -1,0 +1,488 @@
+{
+  "checks": [
+    {
+      "check": "320px no horizontal overflow",
+      "pass": true,
+      "details": {
+        "width": 320,
+        "doc": 310,
+        "overflow": []
+      }
+    },
+    {
+      "check": "320px title readable",
+      "pass": true,
+      "details": {
+        "text": {
+          "x": 144.46875,
+          "right": 254.1875,
+          "top": 242.359375,
+          "bottom": 272.71875
+        },
+        "image": {
+          "x": 16,
+          "right": 294,
+          "top": 304.71875,
+          "bottom": 605.140625
+        }
+      }
+    },
+    {
+      "check": "360px no horizontal overflow",
+      "pass": true,
+      "details": {
+        "width": 360,
+        "doc": 350,
+        "overflow": []
+      }
+    },
+    {
+      "check": "360px title readable",
+      "pass": true,
+      "details": {
+        "text": {
+          "x": 163.140625,
+          "right": 286.578125,
+          "top": 232.15625,
+          "bottom": 266.3125
+        },
+        "image": {
+          "x": 16,
+          "right": 334,
+          "top": 298.3125,
+          "bottom": 641.953125
+        }
+      }
+    },
+    {
+      "check": "390px no horizontal overflow",
+      "pass": true,
+      "details": {
+        "width": 390,
+        "doc": 380,
+        "overflow": []
+      }
+    },
+    {
+      "check": "390px title readable",
+      "pass": true,
+      "details": {
+        "text": {
+          "x": 177.171875,
+          "right": 310.890625,
+          "top": 235.015625,
+          "bottom": 272.03125
+        },
+        "image": {
+          "x": 24,
+          "right": 356,
+          "top": 304.03125,
+          "bottom": 662.8125
+        }
+      }
+    },
+    {
+      "check": "390px empty basket opens",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390px close button initially focused",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390px escape closes basket",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390px focus restored",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390px empty CTA opens catalog",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390px item added",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390px quantity updates",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390px total correct",
+      "pass": true,
+      "details": "4 000 ₽"
+    },
+    {
+      "check": "390px validation errors",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390px local draft",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390px persistence",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390px remove last item",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390px merchandise navigation",
+      "pass": true,
+      "details": 7
+    },
+    {
+      "check": "390px search empty state",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390px search recovers",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "600px no horizontal overflow",
+      "pass": true,
+      "details": {
+        "width": 600,
+        "doc": 590,
+        "overflow": []
+      }
+    },
+    {
+      "check": "600px title readable",
+      "pass": true,
+      "details": {
+        "text": {
+          "x": 275.265625,
+          "right": 480.984375,
+          "top": 232.4375,
+          "bottom": 289.375
+        },
+        "image": {
+          "x": 85,
+          "right": 505,
+          "top": 321.375,
+          "bottom": 775.25
+        }
+      }
+    },
+    {
+      "check": "700px no horizontal overflow",
+      "pass": true,
+      "details": {
+        "width": 700,
+        "doc": 690,
+        "overflow": []
+      }
+    },
+    {
+      "check": "700px title readable",
+      "pass": true,
+      "details": {
+        "text": {
+          "x": 322.28125,
+          "right": 559.03125,
+          "top": 233.03125,
+          "bottom": 298.5625
+        },
+        "image": {
+          "x": 134.984375,
+          "right": 554.984375,
+          "top": 330.5625,
+          "bottom": 784.4375
+        }
+      }
+    },
+    {
+      "check": "768px no horizontal overflow",
+      "pass": true,
+      "details": {
+        "width": 768,
+        "doc": 758,
+        "overflow": []
+      }
+    },
+    {
+      "check": "768px title readable",
+      "pass": true,
+      "details": {
+        "text": {
+          "x": 423.25,
+          "right": 724.203125,
+          "top": 330.8125,
+          "bottom": 414.125
+        },
+        "image": {
+          "x": 134,
+          "right": 624,
+          "top": 181.5,
+          "bottom": 711.5
+        }
+      }
+    },
+    {
+      "check": "900px no horizontal overflow",
+      "pass": true,
+      "details": {
+        "width": 900,
+        "doc": 890,
+        "overflow": []
+      }
+    },
+    {
+      "check": "900px title readable",
+      "pass": true,
+      "details": {
+        "text": {
+          "x": 497.71875,
+          "right": 850.390625,
+          "top": 345.125,
+          "bottom": 442.75
+        },
+        "image": {
+          "x": 199.984375,
+          "right": 689.984375,
+          "top": 181.5,
+          "bottom": 711.5
+        }
+      }
+    },
+    {
+      "check": "1024px no horizontal overflow",
+      "pass": true,
+      "details": {
+        "width": 1024,
+        "doc": 1024,
+        "overflow": []
+      }
+    },
+    {
+      "check": "1024px title readable",
+      "pass": true,
+      "details": {
+        "text": {
+          "x": 577.671875,
+          "right": 978.9375,
+          "top": 366.578125,
+          "bottom": 477.65625
+        },
+        "image": {
+          "x": 267,
+          "right": 757,
+          "top": 189.5,
+          "bottom": 719.5
+        }
+      }
+    },
+    {
+      "check": "1280px no horizontal overflow",
+      "pass": true,
+      "details": {
+        "width": 1280,
+        "doc": 1280,
+        "overflow": []
+      }
+    },
+    {
+      "check": "1280px title readable",
+      "pass": true,
+      "details": {
+        "text": {
+          "x": 701.1875,
+          "right": 1223.671875,
+          "top": 400.125,
+          "bottom": 544.75
+        },
+        "image": {
+          "x": 369.984375,
+          "right": 909.984375,
+          "top": 164.5,
+          "bottom": 749.5
+        }
+      }
+    },
+    {
+      "check": "1440px no horizontal overflow",
+      "pass": true,
+      "details": {
+        "width": 1440,
+        "doc": 1440,
+        "overflow": []
+      }
+    },
+    {
+      "check": "1440px title readable",
+      "pass": true,
+      "details": {
+        "text": {
+          "x": 788.828125,
+          "right": 1376.625,
+          "top": 418.21875,
+          "bottom": 580.9375
+        },
+        "image": {
+          "x": 449.984375,
+          "right": 989.984375,
+          "top": 164.5,
+          "bottom": 749.5
+        }
+      }
+    },
+    {
+      "check": "1440px empty basket opens",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440px close button initially focused",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440px escape closes basket",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440px focus restored",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440px empty CTA opens catalog",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440px item added",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440px quantity updates",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440px total correct",
+      "pass": true,
+      "details": "4 000 ₽"
+    },
+    {
+      "check": "1440px validation errors",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440px local draft",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440px persistence",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440px remove last item",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440px merchandise navigation",
+      "pass": true,
+      "details": 7
+    },
+    {
+      "check": "1440px search empty state",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440px search recovers",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1920px no horizontal overflow",
+      "pass": true,
+      "details": {
+        "width": 1920,
+        "doc": 1920,
+        "overflow": []
+      }
+    },
+    {
+      "check": "1920px title readable",
+      "pass": true,
+      "details": {
+        "text": {
+          "x": 1032.203125,
+          "right": 1620,
+          "top": 418.21875,
+          "bottom": 580.9375
+        },
+        "image": {
+          "x": 690,
+          "right": 1230,
+          "top": 194.5,
+          "bottom": 779.5
+        }
+      }
+    },
+    {
+      "check": "rope moves with scroll",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope bends rather than straight scaling",
+      "pass": true,
+      "details": "M40.00 0.00 Q40.08 12.05 40.12 18.08 Q40.17 24.10 40.22 30.13 Q40.27 36.16 40.32 42.18 Q40.37 48.21 40.43 54.24 Q40.49 60.27 40.55 66.29 Q40.62 72.32 40.69 78.35 Q40.76 84.38 40.84 90.41 Q40.92 96.44 41.00 102.48 Q41.08 108.51 41.17 114.55 Q41.26 120.58 41.36 126.62 Q41.46 132.66 41.56 138.70 Q41.66 144.74 41.76 150.78 Q41.87 156.83 41.98 162.87 Q42.09 168.92 42.20 174.97 Q42.32 181.02 42.44 187.08 L42.55 193.13"
+    },
+    {
+      "check": "rope settles and stops",
+      "pass": true,
+      "details": {
+        "first": "translate(40.71 300.87) rotate(-0.19)",
+        "second": "translate(40.71 300.87) rotate(-0.19)"
+      }
+    },
+    {
+      "check": "slider End reaches bottom",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "slider Home reaches top",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "reduced motion uses straight rope",
+      "pass": true,
+      "details": "M40 0V210.43"
+    }
+  ],
+  "console_errors": [],
+  "failed_requests": [],
+  "passed": 58,
+  "failed": 0
+}

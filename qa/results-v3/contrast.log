@@ -1,0 +1,19 @@
+
+light theme
+  15.98:1  pass         --ink on --canvas                      need 4.5  body ink on canvas
+  14.50:1  pass         --ink on --surface                     need 4.5  body ink on surface
+   9.00:1  pass         --ink-muted on --canvas                need 4.5  secondary text on canvas
+   8.17:1  pass         --ink-muted on --surface               need 4.5  secondary text on surface
+   9.00:1  pass         --ink-subtle on --canvas               need 3.0  tertiary label on canvas
+   5.28:1  pass         --accent-ink on --accent               need 4.5  label on the accent fill
+   3.52:1  pass         --accent on --canvas                   need 3.0  accent edge on canvas
+  10.51:1  pass         --focus on --canvas                    need 3.0  focus ring on canvas
+   9.54:1  pass         --focus on --surface                   need 3.0  focus ring on surface
+  11.11:1  pass         --danger on --canvas                   need 4.5  error text on canvas
+   4.60:1  pass         --control-border on --canvas           need 3.0  control boundary on canvas
+   4.17:1  pass         --control-border on --surface          need 3.0  control boundary on surface
+
+------------------------------------------------------------------
+viora-design-skills contrast: 0 failures in 12 measured pairs
+palette passes. contrast is measured, not claimed.
+------------------------------------------------------------------

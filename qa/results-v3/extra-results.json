@@ -1,0 +1,328 @@
+{
+  "checks": [
+    {
+      "check": "320x640 size required",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "320x640 shirt variation persists",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "320x640 focus contained",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "320x640 heading clear of close button",
+      "pass": true,
+      "details": {
+        "title": {
+          "x": 17,
+          "y": 37.015625,
+          "width": 217,
+          "height": 24.953125
+        },
+        "close": {
+          "x": 250,
+          "y": 27.5,
+          "width": 44,
+          "height": 44
+        }
+      }
+    },
+    {
+      "check": "320x640 checkout body scrollable",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390x844 size required",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390x844 shirt variation persists",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390x844 focus contained",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390x844 heading clear of close button",
+      "pass": true,
+      "details": {
+        "title": {
+          "x": 25,
+          "y": 33.5,
+          "width": 271,
+          "height": 32
+        },
+        "close": {
+          "x": 312,
+          "y": 27.5,
+          "width": 44,
+          "height": 44
+        }
+      }
+    },
+    {
+      "check": "390x844 checkout body scrollable",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "844x390 size required",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "844x390 shirt variation persists",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "844x390 focus contained",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "844x390 heading clear of close button",
+      "pass": true,
+      "details": {
+        "title": {
+          "x": 327,
+          "y": 35.5,
+          "width": 367,
+          "height": 40
+        },
+        "close": {
+          "x": 758,
+          "y": 33.5,
+          "width": 44,
+          "height": 44
+        }
+      }
+    },
+    {
+      "check": "844x390 checkout body scrollable",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440x900 size required",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440x900 shirt variation persists",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440x900 focus contained",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440x900 heading clear of close button",
+      "pass": true,
+      "details": {
+        "title": {
+          "x": 933,
+          "y": 35.5,
+          "width": 367,
+          "height": 40
+        },
+        "close": {
+          "x": 1364,
+          "y": 33.5,
+          "width": 44,
+          "height": 44
+        }
+      }
+    },
+    {
+      "check": "1440x900 checkout body scrollable",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope finite at scroll 900, sample 40",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope never knots at scroll 900, sample 40",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope finite at scroll 900, sample 100",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope never knots at scroll 900, sample 100",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope finite at scroll 900, sample 240",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope never knots at scroll 900, sample 240",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope finite at scroll 2200, sample 40",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope never knots at scroll 2200, sample 40",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope finite at scroll 2200, sample 100",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope never knots at scroll 2200, sample 100",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope finite at scroll 2200, sample 240",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope never knots at scroll 2200, sample 240",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope finite at scroll 350, sample 40",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope never knots at scroll 350, sample 40",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope finite at scroll 350, sample 100",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope never knots at scroll 350, sample 100",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope finite at scroll 350, sample 240",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope never knots at scroll 350, sample 240",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope finite at scroll 1400, sample 40",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope never knots at scroll 1400, sample 40",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope finite at scroll 1400, sample 100",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope never knots at scroll 1400, sample 100",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope finite at scroll 1400, sample 240",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope never knots at scroll 1400, sample 240",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope finite at scroll 0, sample 40",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope never knots at scroll 0, sample 40",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope finite at scroll 0, sample 100",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope never knots at scroll 0, sample 100",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope finite at scroll 0, sample 240",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "rope never knots at scroll 0, sample 240",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "exactly five splashes",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "favicon SVG loaded",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "favicon ICO loaded",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "reduced-motion rope stays still",
+      "pass": true,
+      "details": null
+    }
+  ],
+  "passed": 54,
+  "failed": 0
+}

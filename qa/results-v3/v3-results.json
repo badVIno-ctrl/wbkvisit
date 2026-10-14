@@ -1,0 +1,775 @@
+{
+  "checks": [
+    {
+      "check": "320: no overflow",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "320: both Cyrillic fonts loaded",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "320: identical scarlet for letters and drips",
+      "pass": true,
+      "details": [
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)"
+      ]
+    },
+    {
+      "check": "320: five distinct drip shapes",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "320: no fragile HTML SVG filters",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "320: splash below all links",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "320: splash wholly inside viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "320: compact nav retains 44px targets",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "360: no overflow",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "360: both Cyrillic fonts loaded",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "360: identical scarlet for letters and drips",
+      "pass": true,
+      "details": [
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)"
+      ]
+    },
+    {
+      "check": "360: five distinct drip shapes",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "360: no fragile HTML SVG filters",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "360: splash below all links",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "360: splash wholly inside viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "360: compact nav retains 44px targets",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390: no overflow",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390: both Cyrillic fonts loaded",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390: identical scarlet for letters and drips",
+      "pass": true,
+      "details": [
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)"
+      ]
+    },
+    {
+      "check": "390: five distinct drip shapes",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390: no fragile HTML SVG filters",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390: splash below all links",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390: splash wholly inside viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "390: compact nav retains 44px targets",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "600: no overflow",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "600: both Cyrillic fonts loaded",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "600: identical scarlet for letters and drips",
+      "pass": true,
+      "details": [
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)"
+      ]
+    },
+    {
+      "check": "600: five distinct drip shapes",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "600: no fragile HTML SVG filters",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "600: splash below all links",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "600: splash wholly inside viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "600: compact nav retains 44px targets",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "700: no overflow",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "700: both Cyrillic fonts loaded",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "700: identical scarlet for letters and drips",
+      "pass": true,
+      "details": [
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)"
+      ]
+    },
+    {
+      "check": "700: five distinct drip shapes",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "700: no fragile HTML SVG filters",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "700: splash below all links",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "700: splash wholly inside viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "700: compact nav retains 44px targets",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "701: no overflow",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "701: both Cyrillic fonts loaded",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "701: identical scarlet for letters and drips",
+      "pass": true,
+      "details": [
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)"
+      ]
+    },
+    {
+      "check": "701: five distinct drip shapes",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "701: no fragile HTML SVG filters",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "701: splash below all links",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "701: splash wholly inside viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "701: compact nav retains 44px targets",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "768: no overflow",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "768: both Cyrillic fonts loaded",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "768: identical scarlet for letters and drips",
+      "pass": true,
+      "details": [
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)"
+      ]
+    },
+    {
+      "check": "768: five distinct drip shapes",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "768: no fragile HTML SVG filters",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "768: splash below all links",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "768: splash wholly inside viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "768: compact nav retains 44px targets",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "900: no overflow",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "900: both Cyrillic fonts loaded",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "900: identical scarlet for letters and drips",
+      "pass": true,
+      "details": [
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)"
+      ]
+    },
+    {
+      "check": "900: five distinct drip shapes",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "900: no fragile HTML SVG filters",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "900: splash below all links",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "900: splash wholly inside viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "900: compact nav retains 44px targets",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "901: no overflow",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "901: both Cyrillic fonts loaded",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "901: identical scarlet for letters and drips",
+      "pass": true,
+      "details": [
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)"
+      ]
+    },
+    {
+      "check": "901: five distinct drip shapes",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "901: no fragile HTML SVG filters",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "901: splash below all links",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "901: splash wholly inside viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "901: compact nav retains 44px targets",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1024: no overflow",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1024: both Cyrillic fonts loaded",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1024: identical scarlet for letters and drips",
+      "pass": true,
+      "details": [
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)"
+      ]
+    },
+    {
+      "check": "1024: five distinct drip shapes",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1024: no fragile HTML SVG filters",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1024: splash below all links",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1024: splash wholly inside viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1024: compact nav retains 44px targets",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1280: no overflow",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1280: both Cyrillic fonts loaded",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1280: identical scarlet for letters and drips",
+      "pass": true,
+      "details": [
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)"
+      ]
+    },
+    {
+      "check": "1280: five distinct drip shapes",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1280: no fragile HTML SVG filters",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1280: splash below all links",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1280: splash wholly inside viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1280: compact nav retains 44px targets",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440: no overflow",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440: both Cyrillic fonts loaded",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440: identical scarlet for letters and drips",
+      "pass": true,
+      "details": [
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)"
+      ]
+    },
+    {
+      "check": "1440: five distinct drip shapes",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440: no fragile HTML SVG filters",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440: splash below all links",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440: splash wholly inside viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1440: compact nav retains 44px targets",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1920: no overflow",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1920: both Cyrillic fonts loaded",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1920: identical scarlet for letters and drips",
+      "pass": true,
+      "details": [
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)",
+        "rgb(207, 38, 50)"
+      ]
+    },
+    {
+      "check": "1920: five distinct drip shapes",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1920: no fragile HTML SVG filters",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1920: splash below all links",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1920: splash wholly inside viewport",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "1920: compact nav retains 44px targets",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "normal: artwork really painted",
+      "pass": true,
+      "details": 32624
+    },
+    {
+      "check": "font-blocked: artwork really painted",
+      "pass": true,
+      "details": 32624
+    },
+    {
+      "check": "no-js: artwork really painted",
+      "pass": true,
+      "details": 32584
+    },
+    {
+      "check": "file: artwork really painted",
+      "pass": true,
+      "details": 32624
+    },
+    {
+      "check": "footer decoration belongs to contact panel",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "contact links unchanged",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "h1 accessible wording",
+      "pass": true,
+      "details": null
+    },
+    {
+      "check": "decorative SVG not keyboard focusable",
+      "pass": true,
+      "details": null
+    }
+  ],
+  "passed": 112,
+  "failed": 0,
+  "errors": []
+}

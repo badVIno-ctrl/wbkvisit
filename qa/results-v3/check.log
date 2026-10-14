@@ -1,0 +1,55 @@
+
+styles.css
+  149:3     warn  zindex-high            arbitrary z-index. Use the five-step scale: --z-1 through --z-5.
+                  > z-index:100;
+  302:3     warn  over-tracking          letter-spacing tighter than -0.04em. Past that, display type collides and body type stops being readable. -0.035em is the floor for display, 0 for body.
+                  > letter-spacing:-.06em;
+  930:1     warn  display-no-tracking    display-size type at default tracking. Above roughly 40px, set letter-spacing between -0.02em and -0.04em or the headline reads as unset.
+                  > .detail-copy h2 {
+  1051:27   warn  important              !important means the specificity is wrong. Fix the cascade.
+                  > font-size:var(--text-xs)!important;
+  1249:16   warn  important              !important means the specificity is wrong. Fix the cascade.
+                  > display:block!important;
+  1291:1    warn  display-no-tracking    display-size type at default tracking. Above roughly 40px, set letter-spacing between -0.02em and -0.04em or the headline reads as unset.
+                  > .success-panel h2 {
+  1404:16   warn  important              !important means the specificity is wrong. Fix the cascade.
+                  > display:block!important;
+  1515:1    warn  display-no-tracking    display-size type at default tracking. Above roughly 40px, set letter-spacing between -0.02em and -0.04em or the headline reads as unset.
+                  > .hero-copy h1 {
+  1538:1    warn  display-no-tracking    display-size type at default tracking. Above roughly 40px, set letter-spacing between -0.02em and -0.04em or the headline reads as unset.
+                  > .hero-copy h1 {
+  1908:1    warn  display-no-tracking    display-size type at default tracking. Above roughly 40px, set letter-spacing between -0.02em and -0.04em or the headline reads as unset.
+                  > .hero-copy h1 {
+  1930:19   warn  important              !important means the specificity is wrong. Fix the cascade.
+                  > animation:none!important;
+  1931:20   warn  important              !important means the specificity is wrong. Fix the cascade.
+                  > transition:none!important
+  1966:16   warn  banned-font            default-reflex typeface. Allowed only when pinned by the user or justified in one line.
+                  > font-family:'Cormorant Horror';
+  1993:21   warn  banned-font            default-reflex typeface. Allowed only when pinned by the user or justified in one line.
+                  > --display-horror:'Cormorant Horror',Georgia,serif;
+  2122:17   warn  important              !important means the specificity is wrong. Fix the cascade.
+                  > max-width:14ch!important
+  2176:1    warn  display-no-tracking    display-size type at default tracking. Above roughly 40px, set letter-spacing between -0.02em and -0.04em or the headline reads as unset.
+                  > .poster-title {
+  2186:5    warn  off-rhythm-space       spacing off the rhythm. A 13px gap is a value nobody chose. Use the space tokens.
+                  > margin-top:105px
+  2311:1    warn  display-no-tracking    display-size type at default tracking. Above roughly 40px, set letter-spacing between -0.02em and -0.04em or the headline reads as unset.
+                  > .horror-section-title {
+  2405:3    warn  over-tracking          letter-spacing tighter than -0.04em. Past that, display type collides and body type stops being readable. -0.035em is the floor for display, 0 for body.
+                  > letter-spacing:-.055em
+  2860:5    warn  off-rhythm-space       spacing off the rhythm. A 13px gap is a value nobody chose. Use the space tokens.
+                  > margin-top:105px
+
+(project)
+  -         warn  radius-family          hard-coded corner radii in more than two sizes. Pick one radius family, put it in tokens, reference it.
+                  > 1px, 6px, 3px, 2px
+  -         warn  icon-stroke-mixed      icons drawn at more than one stroke weight. One weight everywhere, or the set reads as borrowed.
+                  > 1.7, 1.5
+
+------------------------------------------------------------------
+viora-design-skills: 0 errors, 22 warnings in 5 files
+fix every error. decide on every warning, or suppress it with
+a reason: /* viora-allow: rule-id why this is correct here */
+why a rule exists, with a before and an after: node scripts/explain.mjs <rule-id>
+------------------------------------------------------------------

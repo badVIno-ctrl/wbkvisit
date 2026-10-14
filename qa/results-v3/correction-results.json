@@ -1,0 +1,1057 @@
+{
+  "checks": [
+    {
+      "check": "320px heading uses reliable outlined distressed artwork",
+      "pass": true,
+      "details": {
+        "font": [
+          "26.88px",
+          "26.88px",
+          "26.88px"
+        ],
+        "mask": "none",
+        "filter": "none",
+        "y": [
+          242.359375,
+          242.359375
+        ],
+        "doc": 310
+      }
+    },
+    {
+      "check": "320px heading has one font size",
+      "pass": true,
+      "details": [
+        "26.88px",
+        "26.88px",
+        "26.88px"
+      ]
+    },
+    {
+      "check": "320px second-line words aligned",
+      "pass": true,
+      "details": [
+        242.359375,
+        242.359375
+      ]
+    },
+    {
+      "check": "320px page has no horizontal overflow",
+      "pass": true,
+      "details": 310
+    },
+    {
+      "check": "320px five complete, uncropped splashes",
+      "pass": true,
+      "details": [
+        {
+          "x": 214,
+          "right": 294,
+          "width": 80,
+          "frameX": 214,
+          "frameRight": 294,
+          "cropping": []
+        },
+        {
+          "x": 230,
+          "right": 294,
+          "width": 64,
+          "frameX": 230,
+          "frameRight": 294,
+          "cropping": []
+        },
+        {
+          "x": 214,
+          "right": 294,
+          "width": 80,
+          "frameX": 214,
+          "frameRight": 294,
+          "cropping": []
+        },
+        {
+          "x": 214,
+          "right": 294,
+          "width": 80,
+          "frameX": 214,
+          "frameRight": 294,
+          "cropping": []
+        },
+        {
+          "x": 16,
+          "right": 256,
+          "width": 240,
+          "frameX": 16,
+          "frameRight": 256,
+          "cropping": []
+        }
+      ]
+    },
+    {
+      "check": "360px heading uses reliable outlined distressed artwork",
+      "pass": true,
+      "details": {
+        "font": [
+          "30.24px",
+          "30.24px",
+          "30.24px"
+        ],
+        "mask": "none",
+        "filter": "none",
+        "y": [
+          232.15625,
+          232.15625
+        ],
+        "doc": 350
+      }
+    },
+    {
+      "check": "360px heading has one font size",
+      "pass": true,
+      "details": [
+        "30.24px",
+        "30.24px",
+        "30.24px"
+      ]
+    },
+    {
+      "check": "360px second-line words aligned",
+      "pass": true,
+      "details": [
+        232.15625,
+        232.15625
+      ]
+    },
+    {
+      "check": "360px page has no horizontal overflow",
+      "pass": true,
+      "details": 350
+    },
+    {
+      "check": "360px five complete, uncropped splashes",
+      "pass": true,
+      "details": [
+        {
+          "x": 254,
+          "right": 334,
+          "width": 80,
+          "frameX": 254,
+          "frameRight": 334,
+          "cropping": []
+        },
+        {
+          "x": 270,
+          "right": 334,
+          "width": 64,
+          "frameX": 270,
+          "frameRight": 334,
+          "cropping": []
+        },
+        {
+          "x": 254,
+          "right": 334,
+          "width": 80,
+          "frameX": 254,
+          "frameRight": 334,
+          "cropping": []
+        },
+        {
+          "x": 254,
+          "right": 334,
+          "width": 80,
+          "frameX": 254,
+          "frameRight": 334,
+          "cropping": []
+        },
+        {
+          "x": 16,
+          "right": 256,
+          "width": 240,
+          "frameX": 16,
+          "frameRight": 256,
+          "cropping": []
+        }
+      ]
+    },
+    {
+      "check": "390px heading uses reliable outlined distressed artwork",
+      "pass": true,
+      "details": {
+        "font": [
+          "32.76px",
+          "32.76px",
+          "32.76px"
+        ],
+        "mask": "none",
+        "filter": "none",
+        "y": [
+          235.015625,
+          235.015625
+        ],
+        "doc": 380
+      }
+    },
+    {
+      "check": "390px heading has one font size",
+      "pass": true,
+      "details": [
+        "32.76px",
+        "32.76px",
+        "32.76px"
+      ]
+    },
+    {
+      "check": "390px second-line words aligned",
+      "pass": true,
+      "details": [
+        235.015625,
+        235.015625
+      ]
+    },
+    {
+      "check": "390px page has no horizontal overflow",
+      "pass": true,
+      "details": 380
+    },
+    {
+      "check": "390px five complete, uncropped splashes",
+      "pass": true,
+      "details": [
+        {
+          "x": 276,
+          "right": 356,
+          "width": 80,
+          "frameX": 276,
+          "frameRight": 356,
+          "cropping": []
+        },
+        {
+          "x": 260,
+          "right": 356,
+          "width": 96,
+          "frameX": 260,
+          "frameRight": 356,
+          "cropping": []
+        },
+        {
+          "x": 256,
+          "right": 356,
+          "width": 100,
+          "frameX": 256,
+          "frameRight": 356,
+          "cropping": []
+        },
+        {
+          "x": 256,
+          "right": 356,
+          "width": 100,
+          "frameX": 256,
+          "frameRight": 356,
+          "cropping": []
+        },
+        {
+          "x": 24,
+          "right": 264,
+          "width": 240,
+          "frameX": 24,
+          "frameRight": 264,
+          "cropping": []
+        }
+      ]
+    },
+    {
+      "check": "600px heading uses reliable outlined distressed artwork",
+      "pass": true,
+      "details": {
+        "font": [
+          "50.4px",
+          "50.4px",
+          "50.4px"
+        ],
+        "mask": "none",
+        "filter": "none",
+        "y": [
+          232.4375,
+          232.4375
+        ],
+        "doc": 590
+      }
+    },
+    {
+      "check": "600px heading has one font size",
+      "pass": true,
+      "details": [
+        "50.4px",
+        "50.4px",
+        "50.4px"
+      ]
+    },
+    {
+      "check": "600px second-line words aligned",
+      "pass": true,
+      "details": [
+        232.4375,
+        232.4375
+      ]
+    },
+    {
+      "check": "600px page has no horizontal overflow",
+      "pass": true,
+      "details": 590
+    },
+    {
+      "check": "600px five complete, uncropped splashes",
+      "pass": true,
+      "details": [
+        {
+          "x": 486,
+          "right": 566,
+          "width": 80,
+          "frameX": 486,
+          "frameRight": 566,
+          "cropping": []
+        },
+        {
+          "x": 470,
+          "right": 566,
+          "width": 96,
+          "frameX": 470,
+          "frameRight": 566,
+          "cropping": []
+        },
+        {
+          "x": 466,
+          "right": 566,
+          "width": 100,
+          "frameX": 466,
+          "frameRight": 566,
+          "cropping": []
+        },
+        {
+          "x": 466,
+          "right": 566,
+          "width": 100,
+          "frameX": 466,
+          "frameRight": 566,
+          "cropping": []
+        },
+        {
+          "x": 24,
+          "right": 264,
+          "width": 240,
+          "frameX": 24,
+          "frameRight": 264,
+          "cropping": []
+        }
+      ]
+    },
+    {
+      "check": "700px heading uses reliable outlined distressed artwork",
+      "pass": true,
+      "details": {
+        "font": [
+          "58px",
+          "58px",
+          "58px"
+        ],
+        "mask": "none",
+        "filter": "none",
+        "y": [
+          233.03125,
+          233.03125
+        ],
+        "doc": 690
+      }
+    },
+    {
+      "check": "700px heading has one font size",
+      "pass": true,
+      "details": [
+        "58px",
+        "58px",
+        "58px"
+      ]
+    },
+    {
+      "check": "700px second-line words aligned",
+      "pass": true,
+      "details": [
+        233.03125,
+        233.03125
+      ]
+    },
+    {
+      "check": "700px page has no horizontal overflow",
+      "pass": true,
+      "details": 690
+    },
+    {
+      "check": "700px five complete, uncropped splashes",
+      "pass": true,
+      "details": [
+        {
+          "x": 579.1875,
+          "right": 659.1875,
+          "width": 80,
+          "frameX": 579.1875,
+          "frameRight": 659.1875,
+          "cropping": []
+        },
+        {
+          "x": 563.1875,
+          "right": 659.1875,
+          "width": 96,
+          "frameX": 563.1875,
+          "frameRight": 659.1875,
+          "cropping": []
+        },
+        {
+          "x": 559.1875,
+          "right": 659.1875,
+          "width": 100,
+          "frameX": 559.1875,
+          "frameRight": 659.1875,
+          "cropping": []
+        },
+        {
+          "x": 559.1875,
+          "right": 659.1875,
+          "width": 100,
+          "frameX": 559.1875,
+          "frameRight": 659.1875,
+          "cropping": []
+        },
+        {
+          "x": 30.796875,
+          "right": 270.796875,
+          "width": 240,
+          "frameX": 30.796875,
+          "frameRight": 270.796875,
+          "cropping": []
+        }
+      ]
+    },
+    {
+      "check": "768px heading uses reliable outlined distressed artwork",
+      "pass": true,
+      "details": {
+        "font": [
+          "73.728px",
+          "73.728px",
+          "73.728px"
+        ],
+        "mask": "none",
+        "filter": "none",
+        "y": [
+          330.8125,
+          330.8125
+        ],
+        "doc": 758
+      }
+    },
+    {
+      "check": "768px heading has one font size",
+      "pass": true,
+      "details": [
+        "73.728px",
+        "73.728px",
+        "73.728px"
+      ]
+    },
+    {
+      "check": "768px second-line words aligned",
+      "pass": true,
+      "details": [
+        330.8125,
+        330.8125
+      ]
+    },
+    {
+      "check": "768px page has no horizontal overflow",
+      "pass": true,
+      "details": 758
+    },
+    {
+      "check": "768px five complete, uncropped splashes",
+      "pass": true,
+      "details": [
+        {
+          "x": 317.109375,
+          "right": 429.109375,
+          "width": 112,
+          "frameX": 317.109375,
+          "frameRight": 429.109375,
+          "cropping": []
+        },
+        {
+          "x": 594.203125,
+          "right": 724.203125,
+          "width": 130,
+          "frameX": 594.203125,
+          "frameRight": 724.203125,
+          "cropping": []
+        },
+        {
+          "x": 53.796875,
+          "right": 273.796875,
+          "width": 220,
+          "frameX": 53.796875,
+          "frameRight": 273.796875,
+          "cropping": []
+        },
+        {
+          "x": 53.796875,
+          "right": 233.796875,
+          "width": 180,
+          "frameX": 53.796875,
+          "frameRight": 233.796875,
+          "cropping": []
+        },
+        {
+          "x": 33.796875,
+          "right": 273.796875,
+          "width": 240,
+          "frameX": 33.796875,
+          "frameRight": 273.796875,
+          "cropping": []
+        }
+      ]
+    },
+    {
+      "check": "900px heading uses reliable outlined distressed artwork",
+      "pass": true,
+      "details": {
+        "font": [
+          "86.4px",
+          "86.4px",
+          "86.4px"
+        ],
+        "mask": "none",
+        "filter": "none",
+        "y": [
+          345.125,
+          345.125
+        ],
+        "doc": 890
+      }
+    },
+    {
+      "check": "900px heading has one font size",
+      "pass": true,
+      "details": [
+        "86.4px",
+        "86.4px",
+        "86.4px"
+      ]
+    },
+    {
+      "check": "900px second-line words aligned",
+      "pass": true,
+      "details": [
+        345.125,
+        345.125
+      ]
+    },
+    {
+      "check": "900px page has no horizontal overflow",
+      "pass": true,
+      "details": 890
+    },
+    {
+      "check": "900px five complete, uncropped splashes",
+      "pass": true,
+      "details": [
+        {
+          "x": 397,
+          "right": 509,
+          "width": 112,
+          "frameX": 397,
+          "frameRight": 509,
+          "cropping": []
+        },
+        {
+          "x": 720.375,
+          "right": 850.375,
+          "width": 130,
+          "frameX": 720.375,
+          "frameRight": 850.375,
+          "cropping": []
+        },
+        {
+          "x": 59.59375,
+          "right": 279.59375,
+          "width": 220,
+          "frameX": 59.59375,
+          "frameRight": 279.59375,
+          "cropping": []
+        },
+        {
+          "x": 59.59375,
+          "right": 239.59375,
+          "width": 180,
+          "frameX": 59.59375,
+          "frameRight": 239.59375,
+          "cropping": []
+        },
+        {
+          "x": 39.59375,
+          "right": 279.59375,
+          "width": 240,
+          "frameX": 39.59375,
+          "frameRight": 279.59375,
+          "cropping": []
+        }
+      ]
+    },
+    {
+      "check": "1024px heading uses reliable outlined distressed artwork",
+      "pass": true,
+      "details": {
+        "font": [
+          "98.304px",
+          "98.304px",
+          "98.304px"
+        ],
+        "mask": "none",
+        "filter": "none",
+        "y": [
+          366.578125,
+          366.578125
+        ],
+        "doc": 1024
+      }
+    },
+    {
+      "check": "1024px heading has one font size",
+      "pass": true,
+      "details": [
+        "98.304px",
+        "98.304px",
+        "98.304px"
+      ]
+    },
+    {
+      "check": "1024px second-line words aligned",
+      "pass": true,
+      "details": [
+        366.578125,
+        366.578125
+      ]
+    },
+    {
+      "check": "1024px page has no horizontal overflow",
+      "pass": true,
+      "details": 1024
+    },
+    {
+      "check": "1024px five complete, uncropped splashes",
+      "pass": true,
+      "details": [
+        {
+          "x": 478.203125,
+          "right": 590.203125,
+          "width": 112,
+          "frameX": 478.203125,
+          "frameRight": 590.203125,
+          "cropping": []
+        },
+        {
+          "x": 848.9375,
+          "right": 978.9375,
+          "width": 130,
+          "frameX": 848.9375,
+          "frameRight": 978.9375,
+          "cropping": []
+        },
+        {
+          "x": 65.0625,
+          "right": 285.0625,
+          "width": 220,
+          "frameX": 65.0625,
+          "frameRight": 285.0625,
+          "cropping": []
+        },
+        {
+          "x": 65.0625,
+          "right": 245.0625,
+          "width": 180,
+          "frameX": 65.0625,
+          "frameRight": 245.0625,
+          "cropping": []
+        },
+        {
+          "x": 45.0625,
+          "right": 285.0625,
+          "width": 240,
+          "frameX": 45.0625,
+          "frameRight": 285.0625,
+          "cropping": []
+        }
+      ]
+    },
+    {
+      "check": "1024px top buttons proportional",
+      "pass": true,
+      "details": [
+        {
+          "height": 44,
+          "font": "18px",
+          "y": 52.5
+        },
+        {
+          "height": 44,
+          "font": "18px",
+          "y": 52.5
+        },
+        {
+          "height": 44,
+          "font": "18px",
+          "y": 52.5
+        },
+        {
+          "height": 44,
+          "font": "18px",
+          "y": 52.5
+        }
+      ]
+    },
+    {
+      "check": "1280px heading uses reliable outlined distressed artwork",
+      "pass": true,
+      "details": {
+        "font": [
+          "128px",
+          "128px",
+          "128px"
+        ],
+        "mask": "none",
+        "filter": "none",
+        "y": [
+          400.125,
+          400.125
+        ],
+        "doc": 1280
+      }
+    },
+    {
+      "check": "1280px heading has one font size",
+      "pass": true,
+      "details": [
+        "128px",
+        "128px",
+        "128px"
+      ]
+    },
+    {
+      "check": "1280px second-line words aligned",
+      "pass": true,
+      "details": [
+        400.125,
+        400.125
+      ]
+    },
+    {
+      "check": "1280px page has no horizontal overflow",
+      "pass": true,
+      "details": 1280
+    },
+    {
+      "check": "1280px five complete, uncropped splashes",
+      "pass": true,
+      "details": [
+        {
+          "x": 633.140625,
+          "right": 745.140625,
+          "width": 112,
+          "frameX": 633.140625,
+          "frameRight": 745.140625,
+          "cropping": []
+        },
+        {
+          "x": 1093.671875,
+          "right": 1223.671875,
+          "width": 130,
+          "frameX": 1093.671875,
+          "frameRight": 1223.671875,
+          "cropping": []
+        },
+        {
+          "x": 76.3125,
+          "right": 296.3125,
+          "width": 220,
+          "frameX": 76.3125,
+          "frameRight": 296.3125,
+          "cropping": []
+        },
+        {
+          "x": 76.3125,
+          "right": 256.3125,
+          "width": 180,
+          "frameX": 76.3125,
+          "frameRight": 256.3125,
+          "cropping": []
+        },
+        {
+          "x": 56.3125,
+          "right": 296.3125,
+          "width": 240,
+          "frameX": 56.3125,
+          "frameRight": 296.3125,
+          "cropping": []
+        }
+      ]
+    },
+    {
+      "check": "1280px top buttons proportional",
+      "pass": true,
+      "details": [
+        {
+          "height": 44,
+          "font": "18px",
+          "y": 52.5
+        },
+        {
+          "height": 44,
+          "font": "18px",
+          "y": 52.5
+        },
+        {
+          "height": 44,
+          "font": "18px",
+          "y": 52.5
+        },
+        {
+          "height": 44,
+          "font": "18px",
+          "y": 52.5
+        }
+      ]
+    },
+    {
+      "check": "1440px heading uses reliable outlined distressed artwork",
+      "pass": true,
+      "details": {
+        "font": [
+          "144px",
+          "144px",
+          "144px"
+        ],
+        "mask": "none",
+        "filter": "none",
+        "y": [
+          418.21875,
+          418.21875
+        ],
+        "doc": 1440
+      }
+    },
+    {
+      "check": "1440px heading has one font size",
+      "pass": true,
+      "details": [
+        "144px",
+        "144px",
+        "144px"
+      ]
+    },
+    {
+      "check": "1440px second-line words aligned",
+      "pass": true,
+      "details": [
+        418.21875,
+        418.21875
+      ]
+    },
+    {
+      "check": "1440px page has no horizontal overflow",
+      "pass": true,
+      "details": 1440
+    },
+    {
+      "check": "1440px five complete, uncropped splashes",
+      "pass": true,
+      "details": [
+        {
+          "x": 729.984375,
+          "right": 841.984375,
+          "width": 112,
+          "frameX": 729.984375,
+          "frameRight": 841.984375,
+          "cropping": []
+        },
+        {
+          "x": 1246.625,
+          "right": 1376.625,
+          "width": 130,
+          "frameX": 1246.625,
+          "frameRight": 1376.625,
+          "cropping": []
+        },
+        {
+          "x": 83.359375,
+          "right": 303.359375,
+          "width": 220,
+          "frameX": 83.359375,
+          "frameRight": 303.359375,
+          "cropping": []
+        },
+        {
+          "x": 83.359375,
+          "right": 263.359375,
+          "width": 180,
+          "frameX": 83.359375,
+          "frameRight": 263.359375,
+          "cropping": []
+        },
+        {
+          "x": 63.359375,
+          "right": 303.359375,
+          "width": 240,
+          "frameX": 63.359375,
+          "frameRight": 303.359375,
+          "cropping": []
+        }
+      ]
+    },
+    {
+      "check": "1440px top buttons proportional",
+      "pass": true,
+      "details": [
+        {
+          "height": 44,
+          "font": "18px",
+          "y": 52.5
+        },
+        {
+          "height": 44,
+          "font": "18px",
+          "y": 52.5
+        },
+        {
+          "height": 44,
+          "font": "18px",
+          "y": 52.5
+        },
+        {
+          "height": 44,
+          "font": "18px",
+          "y": 52.5
+        }
+      ]
+    },
+    {
+      "check": "1920px heading uses reliable outlined distressed artwork",
+      "pass": true,
+      "details": {
+        "font": [
+          "144px",
+          "144px",
+          "144px"
+        ],
+        "mask": "none",
+        "filter": "none",
+        "y": [
+          418.21875,
+          418.21875
+        ],
+        "doc": 1920
+      }
+    },
+    {
+      "check": "1920px heading has one font size",
+      "pass": true,
+      "details": [
+        "144px",
+        "144px",
+        "144px"
+      ]
+    },
+    {
+      "check": "1920px second-line words aligned",
+      "pass": true,
+      "details": [
+        418.21875,
+        418.21875
+      ]
+    },
+    {
+      "check": "1920px page has no horizontal overflow",
+      "pass": true,
+      "details": 1920
+    },
+    {
+      "check": "1920px five complete, uncropped splashes",
+      "pass": true,
+      "details": [
+        {
+          "x": 970.765625,
+          "right": 1082.765625,
+          "width": 112,
+          "frameX": 970.765625,
+          "frameRight": 1082.765625,
+          "cropping": []
+        },
+        {
+          "x": 1489.984375,
+          "right": 1619.984375,
+          "width": 130,
+          "frameX": 1489.984375,
+          "frameRight": 1619.984375,
+          "cropping": []
+        },
+        {
+          "x": 320,
+          "right": 540,
+          "width": 220,
+          "frameX": 320,
+          "frameRight": 540,
+          "cropping": []
+        },
+        {
+          "x": 320,
+          "right": 500,
+          "width": 180,
+          "frameX": 320,
+          "frameRight": 500,
+          "cropping": []
+        },
+        {
+          "x": 300,
+          "right": 540,
+          "width": 240,
+          "frameX": 300,
+          "frameRight": 540,
+          "cropping": []
+        }
+      ]
+    },
+    {
+      "check": "1920px top buttons proportional",
+      "pass": true,
+      "details": [
+        {
+          "height": 44,
+          "font": "18px",
+          "y": 52.5
+        },
+        {
+          "height": 44,
+          "font": "18px",
+          "y": 52.5
+        },
+        {
+          "height": 44,
+          "font": "18px",
+          "y": 52.5
+        },
+        {
+          "height": 44,
+          "font": "18px",
+          "y": 52.5
+        }
+      ]
+    }
+  ],
+  "passed": 59,
+  "failed": 0,
+  "console_errors": []
+}

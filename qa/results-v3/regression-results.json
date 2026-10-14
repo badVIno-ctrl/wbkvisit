@@ -1,0 +1,46 @@
+{
+  "checks": [
+    {
+      "check": "390: upper sections not displaced",
+      "pass": true,
+      "before": {
+        "start": 142,
+        "catalog": 956.95,
+        "merch": 3852.56,
+        "about": 4561.3,
+        "help": 5103.45,
+        "contacts": 5587.45
+      },
+      "after": {
+        "start": 142,
+        "catalog": 956.95,
+        "merch": 3852.56,
+        "about": 4561.3,
+        "help": 5103.45,
+        "contacts": 5587.45
+      }
+    },
+    {
+      "check": "1440: upper sections not displaced",
+      "pass": true,
+      "before": {
+        "start": 119.5,
+        "catalog": 879.59,
+        "merch": 1863.72,
+        "about": 2425.63,
+        "help": 2898.89,
+        "contacts": 3249.45
+      },
+      "after": {
+        "start": 119.5,
+        "catalog": 879.59,
+        "merch": 1863.72,
+        "about": 2425.63,
+        "help": 2898.89,
+        "contacts": 3249.45
+      }
+    }
+  ],
+  "passed": 2,
+  "failed": 0
+}
